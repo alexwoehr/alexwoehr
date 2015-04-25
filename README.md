@@ -24,7 +24,7 @@ I spend about 10 hours a week doing math tutoring at a nonprofit called [STRIDES
 
 ### Open Source
 
-Most of the infrastructure scripts we use at my job are open source. Also, I am starting to help with DocPad.
+I have opensourced most of the infrastructure scripts that I use at my job. Also, I am starting to help with DocPad.
 
 ## Learning
 
