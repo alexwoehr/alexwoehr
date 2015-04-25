@@ -4,6 +4,10 @@ Hello! My name is Alex Woehr. This repo is intended to be a short introduction t
 
 Pull requests are welcome! Although, if your PR is untrue or otherwise unsuitable, I will definitely close it, LOL.
 
+## Gratipay
+
+[Gratipay](http://gratipay.com) is a great website to collect donations for open source. Honestly, you shouldn't donate to me. Donate to DocPad or LightTable or substack or someone like that.
+
 ## Work
 
 ### Paid
